@@ -1,0 +1,13 @@
+Advantages                             
+    --> It is used for making large applications and os like windows(c), c++ is a superset
+    --> Very fast compiling language
+    --> Versatile and reliable
+    --> Great community
+    --> Active support
+    --> Widespread use
+    --> Considered as mother of all languages
+
+
+Disadvantages
+    --> Steep Learning Curve
+    --> Makes beginners lose interest in programming due to steep learning curve
